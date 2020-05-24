@@ -1,3 +1,3 @@
 # HeightMapGenerator
-HeightMapGenerator makes a pseudorandom grey heightmap. Not tileable!
+HeightMapGenerator makes a pseudorandom grey tileable heightmap.
 Format: ASCII PGM.
